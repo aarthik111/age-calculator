@@ -33,4 +33,5 @@ A clean and responsive web app that calculates your exact age in years, months, 
 
 📸 Screenshot
 
-![image](https://github.com/user-attachments/assets/5ad9de7e-49be-426d-844c-56e436d8de1c)
+![image](https://github.com/user-attachments/assets/879a1d19-c1de-4fc4-be74-f2a9aa9dca47)
+
